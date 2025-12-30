@@ -1,4 +1,4 @@
-# LC-3 Virtual Machine
+# LC-3 Virtual Execution
 
 A virtual machine implementation based on the LC-3 (Little Computer 3) architecture, written in C.
 
